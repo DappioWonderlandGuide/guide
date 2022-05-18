@@ -1,9 +1,9 @@
 # Tokenomics
 
 
-Token Ticker : DAPC Token
-Standard: SPL
-Total Supply: 1,000,000,000
+- Token Ticker : DAPC Token
+- Standard: SPL
+- Total Supply: 1,000,000,000
 
 
 ## Introduction of $DAPC  
