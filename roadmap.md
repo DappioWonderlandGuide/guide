@@ -17,7 +17,7 @@
 ## Q3 2022
 
 - 🚧 Launch $DAPC IDO on Raydium
-- 🚧 Launch Dappio Vaults for user to earn DeFi yields with $CARROT boosting
+- 🚧 Launch Dappio Vaults for user to earn DeFi yields with $DAPC boosting
 - 🚧 Launch $DAPC Liquidility providing Pool on Raydium 
 - 🚧 Launch DeFi Utilities(Rewards Multiplier, Fee Discount) and Token Airdrop for the Dappie Gang NFT holder
 - 🚧 Launch Dappio DeFi V2 Public Beta, with more major protocols integrated on Solana and overall UI/UX improvement and suggestion from our community
