@@ -35,5 +35,3 @@ You can stake it at here 👉🏼 [NFT Staking](https://app.dappio.xyz/nft-staki
 One Dappie Gang NFT staked will earn 10 $NFTU a day
 
 
-
-###### tags: `gitbook`
