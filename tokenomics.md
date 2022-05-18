@@ -9,7 +9,7 @@
 ## Introduction of $DAPC  
 $DAPC is a governance token that grants lockers the right to raise and participate in decisions that affect the protocol. $DAPC lockers also receive returns from platform fee.
 
-The maximum token supply of #DAPC is capped at 1,000,000,000 tokens. Tokens are distributed as such:
+The maximum token supply of $DAPC is capped at 1,000,000,000 tokens. Tokens are distributed as such:
 
 ## $DAPC allocation
 
