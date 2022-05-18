@@ -1,4 +1,6 @@
 # Reward 
+
+How to receive rewards on Dappio Wonderland? 
         
 ## Active Reward
 
@@ -7,8 +9,6 @@ Users who uses Dappio Swap/farm/lend/Strategy/Leverage will be charged small amo
 
 
 ## Platform Incentives
-
-How to receive rewards on Dappio Wonderland? 
 
 ### Staking:
 
