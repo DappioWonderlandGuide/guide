@@ -26,11 +26,12 @@ https://medium.com/dappio-wonderland/dappie-gang-nft-utility-guideline-1-8201a00
 ## Where do I buy Dappie Gang?
 You can buy Dappie Gang on either of the two official marketplaces : 
 
-Magic Eden: https://magiceden.io/marketplace/dappie_gang 
-Opensea: https://opensea.io/collection/dappie-gang 
+- Magic Eden: https://magiceden.io/marketplace/dappie_gang 
+- Opensea: https://opensea.io/collection/dappie-gang 
 
 ## Where can I stake my Dappie Gang?
 You can stake it at 👉🏼 https://app.dappio.xyz/nft-staking
+
 One Dappie Gang NFT staked will earn 10 $NFTU a day
 
 
