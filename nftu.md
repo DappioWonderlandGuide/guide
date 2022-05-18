@@ -35,4 +35,3 @@ Halving periods: There will be 3 halving periods, each halving will reduce $NFTU
 - Distribution: Fair Launch to the community (Teams hold nothing)
 
 
-###### tags: `gitbook`
