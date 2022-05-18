@@ -24,7 +24,7 @@ We’re designing fantastic user experiences, keeping the basics simple, and emp
 - Portfolio Dashboard: We provides professional tools to calculate your APY and portfolio from different protocols.
 
 ### Team members 
-- Founder: Justin: https://twitter.com/dappiokeeper 
-- Tech Lead: Jim: https://twitter.com/ironaddicteddog 
+- Founder: Justin: https://twitter.com/dappiokeeper  
+- Tech Lead: Jim: https://twitter.com/ironaddicteddog  
 
 ###### tags: `gitbook`
