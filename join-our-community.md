@@ -6,4 +6,3 @@
 - [Medium](https://medium.com/dappio-wonderland)
 - [Github](https://github.com/DappioWonderland/solana)
 
-###### tags: `gitbook`
