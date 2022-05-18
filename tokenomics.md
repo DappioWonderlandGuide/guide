@@ -39,4 +39,4 @@ The maximum token supply of #DAPC is capped at 1,000,000,000 tokens. Tokens are 
 |Strategic & Valuable Round|15 | Vesting in 24 months. 5% at TGE, 3 months cliff, 5% unlock in 4th-6th month, 20% unlock in 7th-12th month, 30% unlock in 13th-18th month, 40% unlock in 19th-24th month |
 |Public Sale |3 | No lock up|
 
-###### tags: `gitbook`
+
