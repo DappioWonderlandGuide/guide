@@ -70,4 +70,3 @@ Noted:
 | Unstake anytime |✔ with 30% of penalty |✔ without penalty |
 
 
-###### tags: `gitbook`
