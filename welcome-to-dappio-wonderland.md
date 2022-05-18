@@ -1,6 +1,6 @@
 # **Welcome to Dappio Wonderland**
 
-### Resources to get started with Dappio
+## Resources to get started with Dappio
 
 ![](https://hackmd.io/_uploads/SydWGifDc.jpg)
 
@@ -19,12 +19,12 @@ We’re designing fantastic user experiences, keeping the basics simple, and emp
 
 - Easy to start Earning yield: with our One-Click-Farming zap in/out feature, users will be able to instantly provide LPs and start earning yield on different protocols from Solana. 
 
-- Customized strategy: Our users will be able to seamlessly browse through various vaults from the top protocols on Solana, including vault, farming, lending, strategy, NFT.
+- Customized strategy: Our users will be able to seamlessly browse through various vaults from the top protocols on Solana, including vault, farming, gamefi, NFT.
 
 - Portfolio Dashboard: We provides professional tools to calculate your APY and portfolio from different protocols.
 
 ### Team members 
-- Founder: Justin: https://twitter.com/dappiokeeper  
-- Tech Lead: Jim: https://twitter.com/ironaddicteddog  
+- Founder: Justin: https://twitter.com/dappiokeeper 
+- Tech Lead: Jim: https://twitter.com/ironaddicteddog 
 
-
+###### tags: `gitbook`
