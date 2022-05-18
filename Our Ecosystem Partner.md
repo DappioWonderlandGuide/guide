@@ -1,33 +1,32 @@
 # Our Ecosystem Partner
 
 ## Swap / DEX
-🤝 Raydium
-🤝 Jupiter
-🤝 Orca
+- Raydium
+- Jupiter
+- Orca
 
 ## Farm
-🤝 Saber
-🤝 Raydium
+- Saber
+- Raydium
 
 ## Lend
-🤝 Solend
-🤝 Larix
-🤝 Port Finance
+- Solend
+- Larix
+- Port Finance
 
 ## Strategy Hub
-🤝 Francium
-🤝 Katana
-🤝 Friktion
+- Francium
+- Katana
+- Friktion
 
 ## Leverage
-🤝 Tulip
-🤝 Francium
+- Tulip
+- Francium
 
 ## GameFi / NFT
-🤝Genopets
-🤝Sovana
-🤝Fabric
-🤝Monkey Kingdom
+- Genopets
+- Sovana
+- Monkey Kingdom
 
 More to come….
 
