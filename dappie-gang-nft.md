@@ -20,17 +20,17 @@ All Dappie Gang NFT will have perks in DAPPIO Wonderland, perks including:
 - Receive Token Airdrops
 - Lottery ticket for Dappio IDO
 
-Details of these perks can be found here:
-https://medium.com/dappio-wonderland/dappie-gang-nft-utility-guideline-1-8201a00bef6
+Details of these perks can be found here 👉 [Dappie Gang NFT Utility Guideline](https://medium.com/dappio-wonderland/dappie-gang-nft-utility-guideline-1-8201a00bef6)
+
 
 ## Where do I buy Dappie Gang?
 You can buy Dappie Gang on either of the two official marketplaces : 
 
-- Magic Eden: https://magiceden.io/marketplace/dappie_gang 
-- Opensea: https://opensea.io/collection/dappie-gang 
+- [Magic Eden](https://magiceden.io/marketplace/dappie_gang) 
+- [Opensea](https://opensea.io/collection/dappie-gang )
 
 ## Where can I stake my Dappie Gang?
-You can stake it at 👉🏼 https://app.dappio.xyz/nft-staking
+You can stake it at here 👉🏼 [NFT Staking](https://app.dappio.xyz/nft-staking)
 
 One Dappie Gang NFT staked will earn 10 $NFTU a day
 
