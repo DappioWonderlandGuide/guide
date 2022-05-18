@@ -23,7 +23,7 @@ More coming!
 ## How many $NFTU can I earn a day?
 One NFT staked will earn 10 $NFTU a day
 
-Visit here to start staking: https://app.dappio.xyz/nft-staking
+Visit here to start staking 👉 [NFT Staking ](https://app.dappio.xyz/nft-staking)
 
 
 ## What’s the tokenomics of $NFTU?
@@ -35,3 +35,4 @@ Halving periods: There will be 3 halving periods, each halving will reduce $NFTU
 - Distribution: Fair Launch to the community (Teams hold nothing)
 
 
+###### tags: `gitbook`
