@@ -25,14 +25,5 @@
 - Join Community
 
 
-## 3.0 Hackathon - Solana Series (2022)
-
-- [30-Hours Challenge](link_to_doc)
-  - [Crema](link_to_doc)
-  - [Orca](link_to_doc)
-  - [Raydium](link_to_doc)
-  - [Serum](link_to_doc)
-- [30-Days Project](link_to_doc)
-- [Resources](link_to_doc)
 
 ###### tags: `gitbook`
