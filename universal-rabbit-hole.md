@@ -9,4 +9,3 @@ Dappio Wonderland provides a full feature platform for both users and developers
 ![](https://hackmd.io/_uploads/H1QD67pHc.png)
 
 
-###### tags: `gitbook`
