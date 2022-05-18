@@ -66,7 +66,7 @@ Noted:
 
 |  | Vesting $DAPC |Stake $DAPC | Lock $DAPC |
 | - | - | - | - | 
-| Period|1 month | No limit| | 6/12 months | 
+| Period|1 month | No limit|  6/12 months | 
 | Unstake anytime |✔ with 30% of penalty |✔ without penalty |
 
 
