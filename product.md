@@ -42,7 +42,7 @@ Vaults are the core of the Dappio. In our vaults club, Dappio generate yield for
 
 
 
-### Manage $CARROT:
+### Manage $DAPC:
 
 #### Reward Vesting:
 
