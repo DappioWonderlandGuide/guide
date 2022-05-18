@@ -16,4 +16,3 @@
 **80%** of the Fee will share to $DAPC Lockers, while 10% will go to buyback and add to LP, 10% will go for Dappio team. This mean Dappio provide 90% of our revenue share to our community.
 
 
-###### tags: `gitbook`
