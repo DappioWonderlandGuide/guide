@@ -22,7 +22,7 @@ $DAPC stakers receive more $DAPC when they staked.
 - Govern Dappio: Once $DAPC holders lock their $DAPC, they can start voting on various DAO proposals and pool parameters.
 
  
-### Liquidity Mining (Farm $CARROT)     
+### Liquidity Mining (Farm $DAPC)     
 
 The $DAPC rewards are distributed evenly between liquidity providers of the $DAPC pools. Rewards for the pools are distributed based on the overall TVL of the pools, therefore the APYs of these pools are identical.
 
@@ -32,4 +32,3 @@ The $DAPC rewards are distributed evenly between liquidity providers of the $DAP
 
 
 
-###### tags: `gitbook`
