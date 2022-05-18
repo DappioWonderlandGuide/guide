@@ -30,4 +30,3 @@
 
 More to come….
 
-###### tags: `gitbook`
