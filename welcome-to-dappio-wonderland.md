@@ -27,4 +27,4 @@ We’re designing fantastic user experiences, keeping the basics simple, and emp
 - Founder: [Justin](https://twitter.com/dappiokeeper )
 - Tech Lead: [Jim ](https://twitter.com/ironaddicteddog)
 
-###### tags: `gitbook`
+
