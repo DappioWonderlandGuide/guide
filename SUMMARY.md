@@ -1,7 +1,7 @@
 # Table of contents
 
 ## Dappio
-- [Welcome to Dappio Wonderland](https://github.com/DappioWonderlandGuide/guide/blob/master/Welcome%20to%20Dappio%20Wonderland.md)
+- [Welcome to Dappio Wonderland](Welcome%20to%20Dappio%20Wonderland.md)
    - [What is Dappio Wonderland](https://github.com/DappioWonderlandGuide/guide/blob/master/What%20is%20Dappio%20Wonderland.md)
    - [Dappio Wonderland to Solana and User](https://github.com/DappioWonderlandGuide/guide/blob/master/Dappio%20Wonderland%20to%20Solana%20and%20User.md)
 
