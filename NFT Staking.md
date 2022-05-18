@@ -5,7 +5,7 @@ We believe the future of NFT will interchangeably interact with Defi products; a
 
 Now we have partner with Sovana, Monkey Kingdom for user to stake their NFT in Dappio to earn $NFTU. Stay tuned for our $NFTU / NFT Staking partnership update.
 
-Plase view this link for kick-starting NFT Staking: https://app.dappio.xyz/nft-staking 
+Visit here to start staking: https://app.dappio.xyz/nft-staking
 
 ![](https://hackmd.io/_uploads/SkVh5gFU5.png)
 
