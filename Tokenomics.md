@@ -19,7 +19,7 @@ The maximum token supply of #DAPC is capped at 1,000,000,000 tokens. Tokens are 
 | Fundraise|25 | 250,000,000 | See table below |
 | Ecosystem|10 | 100,000,000 | - |
 | Team|15 | 150,000,000 | Vesting in 36 months. 100% unlock linearly in 4th~36th month |
-| Total SUpply|100 | 1,000,000,000 | - |
+| Total Supply|100 | 1,000,000,000 | - |
 
 ### Breakdown of Token Distribution from Community incentive 
 
