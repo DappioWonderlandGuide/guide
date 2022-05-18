@@ -16,7 +16,7 @@ $DAPC stakers receive more $DAPC when they staked.
 
 ### Locking Six/Twelve (6/12) months with 4 benefits:
 
-- Earn more $CARROT: Just like staking, locking can earn more $DAPC. 
+- Earn more $DAPC: Just like staking, locking can earn more $DAPC. 
 - Share Platform Fee:  Lock can also **receive a share of platform fees** based on the periods your lock. 
 - Share Penalty Fee: Because you are committed to the Dappio Wonderland by being locked for Six/Twelve (6/12) months, you will also receive penalty fees from those exiting their vests early. Longer period received higher Penalty fee, which means higher yields.
 - Govern Dappio: Once $DAPC holders lock their $DAPC, they can start voting on various DAO proposals and pool parameters.
