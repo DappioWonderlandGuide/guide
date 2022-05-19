@@ -3,10 +3,12 @@ tags: gitbook
 ---
 
 # Dappie Gang NFT 
+![](https://hackmd.io/_uploads/rk2PzUQw9.png)
+
 
 ## What is Dappie Gang NFT?
 
-Dappie Gang NFT is a unique GameFi character with Defi utilities in Dappio Wonderland.
+Dappie Gang NFT is collection of 6,666 unique rabbit GameFi characters with DeFi utilities in Solana Wonderland.
 
 Each Dappie is unique with special traits that are programmatically generated from 286 random traits; including skin, expression, tattoo, headwear, clothing, and more. All Dappies are cool, but some are rarer than others.
 When you buy a Dappie, you’re not simply buying an avatar or a provably-rare piece of art. You are gaining membership access to a gang whose benefits and offerings will increase over time in Dappio Wonderland. Your Dappie can serve as your unique digital identity and GameFi character, and open digital doors for you in the Solana Wonderland.
@@ -15,6 +17,17 @@ All Dappie Gang NFT gives holders the right to govern the project direction and 
 - Governor : decide the future GameFi roadmap
 - Character: decide which game to have character proposal (Rabbit)
 - Early Access: participate in special campaign
+
+## What Trait rarity Dappie Gang NFT have?
+
+Traits Rarities:
+
+- Common
+- Legendary: Body with Pattern, Zombie, Robot and Alien
+- Genesis
+
+Each traits has a specific utilties attached to it.
+
 
 ## What Utilities Dappie Gang NFT have?
 
