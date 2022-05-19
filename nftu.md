@@ -4,6 +4,9 @@ tags: gitbook
 
 # $NFTU
 
+![](https://hackmd.io/_uploads/BkCYKSQvq.png)
+
+
 ## What is $NFTU?
 
 $NFTU is a Solana Universal NFT Currency designed to integrate unique NFT projects and collectively build around a sustainable NFT currency where earning and spending your collected rewards is just as easy!
