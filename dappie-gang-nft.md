@@ -1,3 +1,7 @@
+---
+tags: gitbook
+---
+
 # Dappie Gang NFT 
 
 ## What is Dappie Gang NFT?
@@ -8,9 +12,9 @@ Each Dappie is unique with special traits that are programmatically generated fr
 When you buy a Dappie, you’re not simply buying an avatar or a provably-rare piece of art. You are gaining membership access to a gang whose benefits and offerings will increase over time in Dappio Wonderland. Your Dappie can serve as your unique digital identity and GameFi character, and open digital doors for you in the Solana Wonderland.
 
 All Dappie Gang NFT gives holders the right to govern the project direction and get early access to Dappio Wonderland.
-Governor : decide the future GameFi roadmap
-Character: decide which game to have character proposal (Rabbit)
-Early Access: participate in special campaign
+- Governor : decide the future GameFi roadmap
+- Character: decide which game to have character proposal (Rabbit)
+- Early Access: participate in special campaign
 
 ## What Utilities Dappie Gang NFT have?
 
@@ -32,6 +36,7 @@ You can buy Dappie Gang on either of the two official marketplaces :
 ## Where can I stake my Dappie Gang?
 You can stake it at here 👉🏼 [NFT Staking](https://app.dappio.xyz/nft-staking)
 
-One Dappie Gang NFT staked will earn 10 $NFTU a day
+One Dappie Gang NFT staked will earn **10** $NFTU a day
+
 
 
