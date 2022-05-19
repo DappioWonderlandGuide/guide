@@ -1,3 +1,7 @@
+---
+tags: gitbook
+---
+
 # $NFTU
 
 ## What is $NFTU?
@@ -21,7 +25,7 @@ More coming!
 
 
 ## How many $NFTU can I earn a day?
-One NFT staked will earn 10 $NFTU a day
+One NFT staked will earn **10** $NFTU a day
 
 Visit here to start staking 👉 [NFT Staking ](https://app.dappio.xyz/nft-staking)
 
@@ -33,5 +37,4 @@ Halving periods: There will be 3 halving periods, each halving will reduce $NFTU
 - 2: 75,000,000 $NFTU tokens mined. 
 - 3:87,500,000 $NFTU tokens mined. 
 - Distribution: Fair Launch to the community (Teams hold nothing)
-
 
