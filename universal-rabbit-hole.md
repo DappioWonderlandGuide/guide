@@ -1,3 +1,7 @@
+---
+tags: gitbook
+---
+
 # Universal Rabbit Hole (SDK)
 
 Interacting with DeFi on Solana shouldn’t be hard. That’s why this Universal Rabiit Hole(SDK) exists.
