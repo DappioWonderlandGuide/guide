@@ -1,8 +1,12 @@
-# Products
+---
+tags: gitbook
+---
+
+# Product
 
 A walk-through to use Dappio Wonderland core product
 
-### Wallet:
+### Wallet
 
 Dappio Wonderland operates on the Solana Network. To interact with Dappio Wonderland, you will need a cryptocurrency wallet. There are several great wallets to choose from in the ecosystem, so it should be easy to find the one that fits your needs best. 
 We recommend using Phantom as a choice to join Dappio Wonderland.
@@ -11,29 +15,29 @@ We recommend using Phantom as a choice to join Dappio Wonderland.
 
 Once the application/extension has been installed, follow the instructions within the wallet to create a new cryptocurrency wallet.
 
-### Dashboard:
+### Dashboard
 Dappio features a dashboard that can view and manage different aspects of your portfolio, such as wallet, farms, lend, strategy, and leverage pools. Once user connect the wallet, our Dashboard will show the current total net worth, current rewards and calculate expected rewards you may earned, and also makes it easy to keep track of volumes and APY across Solana. 
 
 Our dashboard also provides a shortcut for user to one-click claiming rewards through our integrated and easy to use platform. You can either claim all your rewards or based on the protocols we have integrated. 
 
 
-### Swap:
+### Swap
 Dappio aggregates the major DEXs (Decentralized Exchanges) on Solana. User can trade confidently, without needing to leave the platform to compare exchange rates from different DEXs and centralized exchanges.
 
-### Farm:
+### Farm
 In our farming club, user may easily obtain high yields using different protocols on Solana by staking a liquidity provider (LP) token and earning token rewards. Dappio provides a **one-click farming** button for you to simply zap USDC token into our farming club. You can withdraw at anytime and get the rabate token from Dappio.
 
 
-### Lend:
+### Lend
 In our Lending Club, user have access to all top lending protocols on Solana and can easily pick up the highest lending APY protocols.
 
-### Strategy Hub:
+### Strategy Hub
 In our Strategy Hub, we aggregate a multitude of Solana DeFi platforms and strategies in one place and make it easier than ever to find the best yields. In our Strategy Hub, user can easily choose the top strategy vaults on Solana Ecosystem. We make sure user can earn yield and regardless of market volatility.
 
-### Leverage:
+### Leverage
 In our Leverage club. user may easily obtain high yields using different protocols on Solana. We have provide a clear interface fo you to better understand the Yields, Borrowing interests, Asset supplies from the pool. We also show your position which includes Equity/Debt Value, Farmed yields, Kill buffer to know your current debt ratio and asset adjusting feature to better control your status of position value.
 
-### TVL Ranking / On-Chain Data:
+### TVL Ranking / On-Chain Data
 Dappio provides real-time TVL ranking and on-chain data for user to better clarify the market status of DeFi protocols.
 
 
@@ -42,7 +46,7 @@ Vaults are the core of the Dappio. In our vaults club, Dappio generate yield for
 
 
 
-### Manage $DAPC:
+### Manage $DAPC
 
 #### Reward Vesting:
 
@@ -66,7 +70,8 @@ Noted:
 
 |  | Vesting $DAPC |Stake $DAPC | Lock $DAPC |
 | - | - | - | - | 
-| Period|1 month | No limit|  6/12 months | 
-| Unstake anytime |✔ with 30% of penalty |✔ without penalty |
+| Period|1 month | No limit| 6/12 months | 
+| Unstake anytime |✔ with 30% of penalty |✔ without penalty | 
+
 
 
