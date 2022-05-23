@@ -4,6 +4,40 @@ tags: gitbook
 
 # Dappio Wonderland to Solana and User
 
+![](https://hackmd.io/_uploads/HkEVI9uw9.png)
+
+(TBD)
+
 Dappio was started because we want to offer a solution to the ecosystem, with our Zap In-out feature, users will be able to instantly provide LPs and start earning on our platform. Our users will be able to seamlessly browse through various vaults from the top protocols on Solana. Each user will have their own customized strategy as well as a portfolio dashboard to help maximize on their investments. Our integration can not just benefit the user by access to all protocols through Dappio and earn extra yield from it. As a Product Yield Aggregator on Solana, Dappio increased the traffic & TVL on the whole Solana ecosystem. 
 
+## Our Ecosystem Partner
+
+### Swap / DEX
+- Raydium
+- Jupiter
+- Orca
+
+### Farm
+- Saber
+- Raydium
+
+### Lend
+- Solend
+- Larix
+- Port Finance
+
+### Strategy Hub
+- Katana
+- Friktion
+
+### Leverage
+- Tulip
+- Francium
+
+### GameFi / NFT
+- Genopets
+- Sovana
+- Monkey Kingdom
+
+More to come….
 
