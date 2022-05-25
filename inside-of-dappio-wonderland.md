@@ -41,9 +41,6 @@ In our Strategy Hub, we aggregate a multitude of Solana DeFi platforms and strat
 ### Leverage
 In our Leverage club. user may easily obtain high yields using different protocols on Solana. We have provide a clear interface fo you to better understand the Yields, Borrowing interests, Asset supplies from the pool. We also show your position which includes Equity/Debt Value, Farmed yields, Kill buffer to know your current debt ratio and asset adjusting feature to better control your status of position value.
 
-### TVL Ranking / On-Chain Data
-Dappio provides real-time TVL ranking and on-chain data for user to better clarify the market status of DeFi protocols.
-
 
 ### Vaults(Dappio Boosting program)
 Vaults are the core of the Dappio. In our vaults club, Dappio generate yield for your assets by earning compound interest on users crypto assets farming. Our vaults automatically maximizes rewards from various liquidity pools(RAY-SOL, SOL-USDC, etc…), yield products or single assets in Solana ecosystem. Users can choose **auto-compound** investment so the vaults will automatically increase your deposited token amount by compounding yield farming rewards back to your initially deposited LPs. For example, vaults where one can stake SOL-USDC LP will result in more SOL-USDC LP over time, effectively growing your share in the vault and thus allowing for more and more rewards over time. Plus, users will also earn from $DAPC token rewards from our vaults. By using a Dappio vault to compound your gains, you save thousands of transactions with their associated gas costs, and precious personal time. Instead of manually harvesting and selling rewards, buying more tokens, and reinvesting that continuously, a vault does all that automatically at a high frequency.
@@ -89,6 +86,7 @@ Users who uses Dappio farm/lend/Strategy/Leverage will be charged small amount o
 
 
 ## Platform Incentives
+![](https://hackmd.io/_uploads/rkiv9dsDq.png)
 
 
 ### Staking:
@@ -109,12 +107,14 @@ The $DAPC rewards are distributed evenly between liquidity providers of the $DAP
 
 
 ## Fee distribution
+![](https://hackmd.io/_uploads/By6Q5uiwq.jpg)
+
 
 
 | Name | %  | Description | 
 | - | - | - | 
-| Lock|80 | Lock 6 months: Earn 20% of $SOL platform fee ; Lock 12 months: Earn 60% of $SOL platform fee 
-| Buy back add to liquidity providing|10 | Earn Plaform fee for those who provide liquidity on $DAPC pool
+| Lock|80 | Lock 6/12 months to share platform fee
+| Buy back add to liquidity providing|10 |Share Plaform fee for those who provide liquidity on $DAPC pool
 | Team |10 |- |
 
 ### Dappio’s Fee includes:
@@ -123,7 +123,5 @@ The $DAPC rewards are distributed evenly between liquidity providers of the $DAP
 - Swap Fee 
 - SDK Fee
 
-**80%** of the Fee will share to $DAPC Lockers, while 10% will go to buyback and add to LP, 10% will go for Dappio team. This mean Dappio provide 90% of our revenue share to our community.
+**80%** of the Fee will share to $DAPC Lockers, while 10% will go to buyback and add to LP, 10% will go for Dappio team.
 
-
-![](https://hackmd.io/_uploads/H1mm-uzP9.png)
