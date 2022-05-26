@@ -4,7 +4,8 @@ tags: gitbook
 
 # Universal Rabbit Hole (SDK)
 
-![](https://hackmd.io/_uploads/SygZwOjP5.jpg)
+![](https://hackmd.io/_uploads/BJ_eBF3w9.jpg)
+
 
 
 Interacting with DeFi on Solana shouldn’t be hard. That’s why this Universal Rabiit Hole(SDK) exists.
