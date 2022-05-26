@@ -27,7 +27,7 @@ tags: gitbook
 - 🚧 Launch Dappio Vaults for user to earn DeFi yields with $DAPC boosting
 - 🚧 Launch $DAPC Liquidility providing Pool on Raydium 
 - 🚧 Launch DeFi Utilities(Rewards Multiplier, Fee Discount) and Token Airdrop for the Dappie Gang NFT holder
-- 🚧 Launch Dappio DeFi V2 Public Beta, with more major protocols integrated on Solana and overall UI/UX improvement and suggestion from our community
+- 🚧 Launch Dappio Public Beta, with more major protocols integrated on Solana and overall UI/UX improvement and suggestion from our community
 - 🚧 Launch DeFi Rebate mechanism for user to get rewards from $DAPC
 - 🚧 Implement $NFTU with marketplace / Gamefi projects / Metaverse
 - 🚧 Implement Open-source core program, following audits
