@@ -4,7 +4,8 @@ tags: gitbook
 
 # Roadmap
 
-![](https://hackmd.io/_uploads/SkTYodiDc.jpg)
+![](https://hackmd.io/_uploads/BJWiEt2wc.jpg)
+
 
 
 #### Key: 🚧 Work in Progress / ✅ Done
