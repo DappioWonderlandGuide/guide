@@ -9,7 +9,6 @@ tags: gitbook
 - [Dappio Wonderland to Solana and User](dappio-wonderland-to-solana-and-user.md)
 - [Inside of Dappio Wonderland](inside-of-dappio-wonderland.md)
 - [Universal Rabbit Hole(SDK)](universal-rabbit-hole.md)
-- [Tokenomics](tokenomics.md)
 - [Roadmap](roadmap.md)
 
 ## Dappie Gang
