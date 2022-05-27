@@ -2,10 +2,10 @@
 tags: gitbook
 ---
 
-# **What is Dappio Wonderland**
+<!-- # What is Dappio Wonderland
+ -->
 
-
-### Resources to get started with Dappio
+## Resources to get started with Dappio
 
 ![](https://hackmd.io/_uploads/SydWGifDc.jpg)
 
