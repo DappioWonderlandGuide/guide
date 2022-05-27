@@ -2,7 +2,7 @@
 tags: gitbook
 ---
 
-# Dappie Gang NFT 
+# Dappie Gang
 
 ![](https://hackmd.io/_uploads/rk2PzUQw9.png)
 
