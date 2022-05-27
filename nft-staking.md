@@ -4,11 +4,9 @@ tags: gitbook
 
 # NFT Finance and $NFTU
 
-Earn $NFTU by staking your NFT! It's just that simple.
-
 ![](https://hackmd.io/_uploads/SkVh5gFU5.png)
 
-Dappio Wonderland provides users to earn yield across Defi / NFT offerings. Therefore, allowing all Solana NFT to stake on Dappio has always been part of our mission and roadmap.
+Earn $NFTU by staking your NFT! It's just that simple. Dappio Wonderland provides users to earn yield across Defi / NFT offerings. Therefore, allowing all Solana NFT to stake on Dappio has always been part of our mission and roadmap.
 
 We believe the future of NFT will interchangeably interact with Defi products; and to create a friendly, trusted environment for holders to stake; Dappio Wonderland becomes an important puzzle to Solana ecosystem.
 
