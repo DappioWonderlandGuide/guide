@@ -10,32 +10,8 @@ Dappio was started because we want to offer a solution to the ecosystem, with ou
 
 ## Our Ecosystem Partner
 
-### Swap / DEX
+![](https://hackmd.io/_uploads/Skg4eDRwq.png)
 
-- Jupiter
-<!-- ![](https://hackmd.io/_uploads/r1ofHgAwq.png) -->
-
-### Farm
-- Saber
-- Raydium
-
-### Lend
-- Solend
-- Larix
-- Port Finance
-
-### Strategy Hub
-- Katana
-- Friktion
-
-### Leverage
-- Tulip
-- Francium
-
-### GameFi / NFT
-- Genopets
-- Sovana
-- Monkey Kingdom
 
 More to come….
 
