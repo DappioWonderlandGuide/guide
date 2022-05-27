@@ -2,7 +2,7 @@
 tags: gitbook
 ---
 
-# About Us
+# About Dappio
 
 ![](https://hackmd.io/_uploads/SydWGifDc.jpg)
 
