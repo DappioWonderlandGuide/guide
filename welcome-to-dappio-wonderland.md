@@ -2,15 +2,15 @@
 tags: gitbook
 ---
 
-# About Dappio Wonderland
-
-## Resources to get started with Dappio
+# About Us
 
 ![](https://hackmd.io/_uploads/SydWGifDc.jpg)
 
 Welcome to Dappio Wonderland, the first Wonderland on Solana. Dappio will aggregate yields across DeFi and NFT offerings, creating a place where dreams come true and imaginations are free to roam without rules or judgment. Are you ready to be transported into our Wonderland?
 
 We’re designing fantastic user experiences, keeping the basics simple, and empowering all 🐰 in wonderland to find their bliss.
+
+## Overview
 
 **Dappio is a one-stop yield aggregation solution for DeFi / NFT on Solana.** We believe that the next generation of yield aggregators should be vertical agnostic across categories, harnessing network diversity to produce a robust product. Our aims is to make your yield assets more profitable and easy to use by aggregating best of the yields in Solana’s ecosystem, including farming, lending, borrowing, and staking in one tool. For peace of mind, users can compare APY and interest rates on all other major Solana projects before participating.
 
