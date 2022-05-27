@@ -4,15 +4,10 @@ tags: gitbook
 
 # Table of contents
 
-## Dappio
-- [What is Dappio Wonderland](welcome-to-dappio-wonderland.md)
-- [Dappio Wonderland to Solana and User](dappio-wonderland-to-solana-and-user.md)
-- [Inside of Dappio Wonderland](inside-of-dappio-wonderland.md)
-- [Universal Rabbit Hole(SDK)](universal-rabbit-hole.md)
-- [Roadmap](roadmap.md)
-
-## Dappie Gang
+- [About Us](welcome-to-dappio-wonderland.md)
+- [Ecosystem and Community](dappio-wonderland-to-solana-and-user.md)
+- [Products and Services](inside-of-dappio-wonderland.md)
 - [Dappie Gang NFT](dappie-gang-nft.md)
-- [NFT Staking](nft-staking.md)
-
-
+- [NFT Finance and $NFTU](nft-staking.md)
+- [Our Approach to Better Composability](universal-rabbit-hole.md)
+- [Roadmap](roadmap.md)
