@@ -42,7 +42,7 @@ The rapid proliferation of DeFi products and protocols has produced an ecosystem
 
 ### Team Members 
 
-![](https://hackmd.io/_uploads/B1JgdnTPq.jpg)
+![](https://hackmd.io/_uploads/S1t8PzCv5.jpg)
 
 
 
