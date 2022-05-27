@@ -2,7 +2,7 @@
 tags: gitbook
 ---
 
-# NFT Finance
+# NFT Finance and $NFTU
 
 Earn $NFTU by staking your NFT! It's just that simple.
 
