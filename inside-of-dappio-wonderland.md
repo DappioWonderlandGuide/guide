@@ -4,6 +4,10 @@ tags: gitbook
 
 # Products and Services
 
+![](https://hackmd.io/_uploads/Bk1X7c1Oc.jpg)
+
+
+
 ## Dashboard
 
 Dappio features a dashboard that can view and manage different aspects of your portfolio, such as wallet, farms, lend, strategy, and leverage pools. Once user connect the wallet, our Dashboard will show the current total net worth, current rewards and calculate expected rewards you may earned, and also makes it easy to keep track of volumes and APY across Solana. 
