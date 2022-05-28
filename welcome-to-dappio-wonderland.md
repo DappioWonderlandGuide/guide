@@ -4,7 +4,9 @@ tags: gitbook
 
 # About Dappio
 
-![](https://hackmd.io/_uploads/SydWGifDc.jpg)
+![](https://hackmd.io/_uploads/HyYpX9kd9.jpg)
+
+
 
 Welcome to Dappio Wonderland, the first Wonderland on Solana. Dappio will aggregate yields across DeFi and NFT offerings, creating a place where dreams come true and imaginations are free to roam without rules or judgment. Are you ready to be transported into our Wonderland?
 
