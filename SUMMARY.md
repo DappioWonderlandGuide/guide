@@ -4,10 +4,11 @@ tags: gitbook
 
 # Table of contents
 
-- [About Dappio](welcome-to-dappio-wonderland.md)
-- [Ecosystem and Community](dappio-wonderland-to-solana-and-user.md)
-- [Products and Services](inside-of-dappio-wonderland.md)
-- [Dappie Gang](dappie-gang-nft.md)
-- [NFT Finance and $NFTU](nft-staking.md)
-- [Our Approach to Better Composability](universal-rabbit-hole.md)
+- [About Dappio](about-dappop.md)
+- [Ecosystem and Community](ecosystem-and-community.md)
+- [Products and Services](products-and-services.md)
+- [Dappie Gang](dappie-gang.md)
+- [NFT Finance and $NFTU](nft-finance-and-nftu.md)
+- [Our Approach to Better Composability](our-approach-to-better-composability.md)
 - [Roadmap](roadmap.md)
+
