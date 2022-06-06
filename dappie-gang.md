@@ -14,29 +14,69 @@ Each Dappie is unique with special traits that are programmatically generated fr
 When you buy a Dappie, you’re not simply buying an avatar or a provably-rare piece of art. You are gaining membership access to a gang whose benefits and offerings will increase over time in Dappio Wonderland. Your Dappie can serve as your unique digital identity and GameFi character, and open digital doors for you in the Solana Wonderland.
 
 All Dappie Gang NFT gives holders the right to govern the project direction and get early access to Dappio Wonderland.
-- Governor : decide the future GameFi roadmap
-- Character: decide which game to have character proposal (Rabbit)
-- Early Access: participate in special campaign
+- **Governor**: decide the future GameFi roadmap
+- **Character**: decide which game to have character proposal (Rabbit)
+- **Early Access**: participate in special campaign
 
 ## What Trait rarity Dappie Gang NFT have?
 
 Traits Rarities:
 
-- Common
-- Legendary: Body with Pattern, Zombie, Robot and Alien
-- Genesis
+- Genesis (1%)
+- Legendary (36%): Body with Pattern, Zombie, Robot and Alien
+- Common (63%)
 
 Each traits has a specific utilties attached to it.
 
 ## What Utilities Dappie Gang NFT have?
+![](https://hackmd.io/_uploads/H10Waxou9.png)
+
 
 All Dappie Gang NFT will have perks in DAPPIO Wonderland, perks including:
-- DeFi Fee Discount 
-- DeFi Reward Multiplier
-- Receive Token Airdrops
-- Lottery ticket for Dappio IDO
+- **DeFi Fee Discount** 
+- **DeFi Reward Multiplier**
+- **Receive Token Airdrops**
+- **Lottery ticket for Dappio IDO**
 
-Details of these perks can be found here 👉 [Dappie Gang NFT Utility Guideline](https://medium.com/dappio-wonderland/dappie-gang-nft-utility-guideline-1-8201a00bef6)
+Genesis (1%)
+💰Utilities: Holders will have all **3** utilities(Fee Discount, Reward Multiplier, Token airdrop) when staked
+
+Legendary(36%)
+💰 Utilities: Holders will have **1** of **3** utilities(Fee Discount, Reward Multiplier, Token airdrop) when staked
+
+Common (63%)
+💰 Utilities: Holders will have **1** of **3** utilities when **2 or more** staked
+
+🔓 Stake **2** Dappie Gang NFTs for Fee Discount
+
+🔓 Stake **3** Dappie Gang NFTs for Reward Multiplier
+
+🔓 Stake **4** Dappie Gang NFTs for Token Airdrop
+
+The more Dappie Gangs you stake, more advanced the utility. ONLY Airdrop utility can be built up with no cap.
+
+Examples:
+
+Stake 2 Dappie Gangs = Fee Reduction
+
+Stake 3 Dappie Gangs = Reward Multiplier
+
+Stake 4 Dappie Gangs = Token Airdrop
+
+Stake 6 Dappie Gangs = Token Airdrop + Fee Reduction
+
+Stake 7 Dappie Gangs = Token Airdrop + Reward Multiplier
+
+Stake 8 DappieGangs = Token Airdrop *2
+
+Stake 10 DappieGangs = Token Airdrop *2 + Fee Reduction
+
+Stake 11 DappieGangs = Token Airdrop *2 + Reward Multiplier
+
+Stake 12 DappieGangs = Token Airdrop *3
+
+-So on and so forth-
+
 
 ## Where do I buy Dappie Gang?
 
