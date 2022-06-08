@@ -23,7 +23,10 @@ Visit here to start 👉 [NFT Staking](https://app.dappio.xyz/nft-staking)
 
 ### STAKE/UNSTAKE Process
 If you hold a Dappie Gang, Sovana Egg, Diamond Baepes by MonkeyKingdom and MonkeyKingdom, make sure to check out this guide to help you understand the staking process.
-![](https://hackmd.io/_uploads/Sk24Hjv_c.png)
+
+![](https://hackmd.io/_uploads/Sk3LVc6O5.jpg)
+
+
 
 
 
