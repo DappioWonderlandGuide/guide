@@ -2,7 +2,7 @@
 tags: gitbook
 ---
 
-# Our Approach to Better Composability
+# The Universal Rabbit Hole(SDK)
 
 ![](https://hackmd.io/_uploads/BJ_eBF3w9.jpg)
 
