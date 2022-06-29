@@ -9,6 +9,6 @@ tags: gitbook
 - [Products and Services](products-and-services.md)
 - [Dappie Gang](dappie-gang.md)
 - [NFT Finance and $NFTU](nft-finance-and-nftu.md)
-- [The Universal Rabbit Hole(SDK)](our-approach-to-better-composability.md)
+- [The Universal Rabbit Hole(SDK)](the-universal-rabbit-hole(SDK).md)
 - [Roadmap](roadmap.md)
 
