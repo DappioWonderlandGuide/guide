@@ -22,7 +22,7 @@ tags: gitbook
 - 🚧 Secured Partnership development with leading DeFi / NFT Projects on Solana for cross-marketing and user-adoption of Dappio DeFi App, NFTU ecosystem
 - 🚧 Release of Dappio Grant Program (SDK)
 
-## Q4
+### Q4
 
 - 🚧 Launch Dappio Vaults for user to boost yields 
 - 🚧 Launch NFT Utilities(Rewards Multiplier, Fee Discount and Token Airdrop) for the Dappie Gang NFT holder
