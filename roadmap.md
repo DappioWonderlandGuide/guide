@@ -4,37 +4,31 @@ tags: gitbook
 
 # Roadmap
 
-![](https://hackmd.io/_uploads/BJWiEt2wc.jpg)
+![](https://hackmd.io/_uploads/Hkx5UHbs5.png)
 
 
 
-#### Key: 🚧 Work in Progress / ✅ Done
+### Q2
 
-## Q2 2022
+- ✅ Launch NFT Staking
+- ✅ Launch $NFTU Token
+- ✅ Adopt more integration
 
-- ✅ Launch NFT Staking for Dappie Gang / Partner NFT project holders to stake and earn multiply benefits and rewards
-- ✅ Launch $NFTU, a Solana Universal NFT Currency designed to integrate unique NFT projects 
-- 🚧 Launch Dappio DeFi V2, with overall improvement on UI/UX including Dashboard, Farm, Lend, Leverage, Strategy for users to enjoy best-in-class one stop solution yield aggregator on Solana.
-- 🚧 Launch Universal Rabbit Hole(SDK), provides a full feature platform for both users and developers to leverage the full potential of DeFi on Solana
-- 🚧 Launch $NFT Auction/Raffle for user to get exclusive Whitelist Spots and Blue-chip NFT on Solana
-- 🚧 Secured Partnership development with leading DeFi / NFT Projects on Solana for cross-marketing and user-adoption of Dappio DeFi App, NFTU ecosystem 
-- 🚧 Develop $DAPC tokenomics and reward utilities
-
-
-
-## Q3 2022
-
-- 🚧 Launch $DAPC IDO on Raydium
-- 🚧 Launch Dappio Vaults for user to earn DeFi yields with $DAPC boosting
-- 🚧 Launch $DAPC Liquidility providing Pool on Raydium 
-- 🚧 Launch DeFi Utilities(Rewards Multiplier, Fee Discount) and Token Airdrop for the Dappie Gang NFT holder
-- 🚧 Launch Dappio Public Beta, with more major protocols integrated on Solana and overall UI/UX improvement and suggestion from our community
-- 🚧 Launch DeFi Rebate mechanism for user to get rewards from $DAPC
-- 🚧 Implement $NFTU with marketplace / Gamefi projects / Metaverse
-- 🚧 Implement Open-source core program, following audits
-- 🚧 Reveal Phase 2.0 Roadmap, which is focused on accelerating adoption and value of $DAPC and $NFTU ecosystem product
+### Q3
+- 🚧 Launch NFT Auction/Raffle for user to get exclusive Whitelist Spots and Blue-chip NFT on Solana
+- 🚧 Launch Dappio DeFi Public Beta(V2), with overall improvement on UI/UX including Dashboard, Farm, Lend, Strategy, Leverage for users to enjoy best-in-class one stop solution yield aggregator on Solana.
+   - ✅ Dashboard, Swap, Farm  
+   - 🚧 Lend, Strategy, Leverage
+- 🚧 Release of Universal Rabbit Hole(SDK) V1, provides a full feature platform for both users and developers to leverage the full potential of DeFi on Solana; Implement Open-source core program, following audits
+- 🚧 Secured Partnership development with leading DeFi / NFT Projects on Solana for cross-marketing and user-adoption of Dappio DeFi App, NFTU ecosystem
+- 🚧 Release of Dappio Grant Program (SDK)
 
 
 
-
+## Q4
+- 🚧 Launch Dappio Vaults for user to boost yields 
+- 🚧 Launch NFT Utilities(Rewards Multiplier, Fee Discount and Token Airdrop) for the Dappie Gang NFT holder
+- 🚧 Launch Dappio DeFi V3, with more major protocols integrated on Solana and overall UI/UX improvement and suggestion from our community
+- 🚧 Release of Universal Rabbit Hole(SDK) V2
+- 🚧 Reveal Phase 2.0 Roadmap(2023 Q1-Q2), which is focused on accelerating adoption and value for Dappio Community
 
