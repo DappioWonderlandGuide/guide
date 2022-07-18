@@ -15,5 +15,3 @@ tags: gitbook
   - [About Dappie Gang](about-dappie-gang.md)
   - [NFT Finance and $NFTU](nft-finance-and-nftu.md)
 
-
-
