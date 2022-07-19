@@ -20,7 +20,7 @@ Dappio aggregates the major DEXs (Decentralized Exchanges) on Solana. User can t
 
 ## Farm
 
-In our farming club, user may easily obtain high yields using different protocols on Solana by staking a liquidity provider (LP) token and earning token rewards. Dappio provides a **one-click farming** button for you to simply zap USDC token into our farming club. You can withdraw at anytime and get the rabate token from Dappio.
+In our farming club, user may easily obtain high yields using different protocols on Solana by staking a liquidity provider (LP) token and earning token rewards. Dappio provides a **one-click farming** button for you to simply zap USDC/Single Asset into our farming club. You can withdraw by LP/Single Asset/USDC at anytime from Dappio.
 
 ## Lend
 
