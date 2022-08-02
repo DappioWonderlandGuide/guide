@@ -30,7 +30,7 @@ The rapid proliferation of DeFi products and protocols has produced an ecosystem
 - One place to earn yield: Dappio aggregate major DeFi protocols on Solana and enables user to start earning yield from Farm/Lend/Strategy/Leverage/Vaults. Users no longer have to go on various platforms to farm different token or earn yields.
 - Easy to use: with our One-Click-Farming zap in/out feature, users will be able to instantly provide LPs and start earning yield on different protocols from Solana. 
 - Customized strategy: Our users will be able to seamlessly browse through various vaults from the top protocols on Solana, including vault, strategy, farming, lending, NFT.
-- Portfolio Dashboard: We provides professional tools to calculate your APY and portfolio from different protocols.
+- Portfolio Dashboard: We provide professional tools to calculate your APY and portfolio from different protocols.
 
 ## Team Members 
 
