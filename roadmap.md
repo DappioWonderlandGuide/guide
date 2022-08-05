@@ -16,8 +16,8 @@ tags: gitbook
 
 - ✅ Launch NFT Auction/Raffle for user to get exclusive Whitelist Spots and Blue-chip NFT on Solana
 - 🚧 Launch Dappio DeFi Public Beta(V2), with overall improvement on UI/UX including Dashboard, Farm, Lend, Strategy, Leverage for users to enjoy best-in-class one stop solution yield aggregator on Solana.
-   - ✅ Dashboard, Swap, Farm  
-   - 🚧 Lend, Borrow, Leverage, Strategy
+   - ✅ Dashboard, Swap, Farm, Lend  
+   - 🚧 Borrow, Leverage, Strategy
 - 🚧 Release of Universal Rabbit Hole(SDK) V1, provides a full feature platform for both users and developers to leverage the full potential of DeFi on Solana; Implement Open-source core program, following audits
 - 🚧 Secured Partnership development with leading DeFi / NFT Projects on Solana for cross-marketing and user-adoption of Dappio DeFi App, NFTU ecosystem
 - 🚧 Release of Dappio Grant Program (SDK)
