@@ -50,11 +50,20 @@ Every SDK is different. Figuring out and interacting with each one takes time. I
 |DeFi users| Limited DeFi choice on Solana| More DeFi innovation protocols available, with better user experience on Solana ecosystem |More Protocols on Solana can build on top of Dappio to create the best yields and model for users to choose and earn ideal returns | 
 
 
-## Summary
 
-Universal Rabbit Hole provides a multi-function platform for both users and developers to experience all that DeFi on Solana has to offer. Universal Rabbit Hole acts as the middleware that aggregates multiple top DeFi protocols into one upgradable program layer. This structure allows developers to realize the full potential of Decentralized Finance on Solana. 
+## Current Avaliable Adapters
+- Raydium (Farm/Pool)
+- Saber (Farm/Pool)
+- Orca (Farm/Pool)
+- Lifinity (Farm/Pool)
+- Jupiter (Swap)
+- Solend (Money Market-Lend/Borrow)
+- Larix (Money Market-Lend/Borrow)
+- Tulip (Money Market-Lend/Vault)
+- Francium (Leverage Farm)
+- Dappio (Vault)
 
-Dappio Wonderland is developer-friendly, and caters to teams of any size. It doesn't matter if you're a solo programmer or a scaled team, we got you covered. Our core team and broader community look forward to helping you build on Solana. Universal Rabbit Hole will be available for individuals, developers, and protocols in Q3 of 2022.
+
 
 
 
