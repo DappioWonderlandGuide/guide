@@ -49,7 +49,7 @@ Every SDK is different. Figuring out and interacting with each one takes time. I
 
 
 
-## Examples 
+## Summary 
 
 | TA/Issue |Pain Point(Before)|Solution(After)|Example| 
 | - | - | - | - | 
@@ -65,9 +65,9 @@ Every SDK is different. Figuring out and interacting with each one takes time. I
 - Orca (Farm/Pool)
 - Lifinity (Farm/Pool)
 - Jupiter (Swap)
-- Solend (Money Market-Lend/Borrow)
-- Larix (Money Market-Lend/Borrow)
-- Tulip (Money Market-Lend/Vault)
+- Solend (Money Market)
+- Larix (Money Market)
+- Tulip (Money Market/Vault)
 - Francium (Leverage Farm)
 - Dappio (Vault)
 
