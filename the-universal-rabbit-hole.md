@@ -16,7 +16,8 @@ Dappio is dedicated to making Solana easy and bringing top developers into the S
 The following diagram shows an overview of Universal Rabbit Hole:
 
 
-![](https://hackmd.io/_uploads/HkewJRWsq.jpg)
+![](https://hackmd.io/_uploads/BkJR4tXA9.png)
+
 
 > Explanation
 
@@ -43,7 +44,7 @@ Dappio has already integrated several major protocols on Solana, including Farm/
 Every SDK is different. Figuring out and interacting with each one takes time. If your project involves multiple SDKs, all of that time can start to add up. With just a few lines of code, Universal Rabbit Hole dramatically reduces development complexity. The diagram below shows how this complexity is reduced:
 
 
-![](https://hackmd.io/_uploads/BJlzUsCiq.jpg)
+![](https://hackmd.io/_uploads/Bye2I_QRq.png)
 
 
 
