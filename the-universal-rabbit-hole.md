@@ -16,7 +16,8 @@ Dappio is dedicated to making Solana easy and bringing top developers into the S
 The following diagram shows an overview of Universal Rabbit Hole:
 
 
-![](https://hackmd.io/_uploads/BkJR4tXA9.png)
+![](https://hackmd.io/_uploads/Bk6Ti1mgj.png)
+
 
 
 > Explanation
@@ -48,6 +49,15 @@ Every SDK is different. Figuring out and interacting with each one takes time. I
 
 
 
+## Who can benefit from Universal Rabbit Hole?
+Four types of people will benefit from this composable framework:
+
+- Core Devs (BUIDL Gateway)
+- Protocol Devs (BUIDL Adapters)
+- General Devs (BUIDL on DAppes)
+- Users (Experience innovated Dapp’s products)
+
+![](https://hackmd.io/_uploads/SJx1pJQgs.jpg)
 
 
 ## Summary 
@@ -72,7 +82,7 @@ Every SDK is different. Figuring out and interacting with each one takes time. I
 - Francium (Leverage Farm)
 - Dappio (Vault)
 
-
+More to come...
 
 
 
