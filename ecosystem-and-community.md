@@ -11,7 +11,8 @@ Dappio was started because we want to offer a solution to the ecosystem, with ou
 
 ## Our Ecosystem Partner
 
-![](https://hackmd.io/_uploads/BkQN0lQgs.png)
+![](https://hackmd.io/_uploads/HJQfS0Sei.png)
+
 
 
 
