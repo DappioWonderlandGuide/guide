@@ -20,7 +20,7 @@ tags: gitbook
 - ✅ Launch Farm V2
 - ✅ Launch Lend & Borrow V2
 - 🚧 Launch Leverage V2
-- 🚧  Launch Strategy V2
+- 🚧 Launch Strategy V2
 - 🚧 Release of Universal Rabbit Hole(SDK), provides a full feature platform for both users and developers to leverage the full potential of DeFi on Solana; Implement Open-source core program, following audits
 - 🚧 Secured Partnership development with leading DeFi / NFT Projects on Solana for cross-marketing and user-adoption of Dappio DeFi App, NFTU ecosystem
 - 🚧 Release of Dappio Grant Program (SDK)
