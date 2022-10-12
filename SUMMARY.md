@@ -10,10 +10,9 @@ tags: gitbook
 - [Products and Services](products-and-services.md)
 - [Roadmap](roadmap.md)
 
-## NFT
 
-  - [About Dappie Gang](about-dappie-gang.md)
-  - [NFT Finance and $NFTU](nft-finance-and-nftu.md)
+- [About Dappie Gang](about-dappie-gang.md)
+- [NFT Finance and $NFTU](nft-finance-and-nftu.md)
 
 
 
