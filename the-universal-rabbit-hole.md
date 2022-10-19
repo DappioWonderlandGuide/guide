@@ -48,8 +48,8 @@ Every SDK is different. Figuring out and interacting with each one takes time. I
 ![](https://hackmd.io/_uploads/Bye2I_QRq.png)
 
 
-
 ## Who can benefit from Universal Rabbit Hole?
+
 Four types of people will benefit from this composable framework:
 
 - Core Devs (BUIDL Gateway)
@@ -57,8 +57,7 @@ Four types of people will benefit from this composable framework:
 - General Devs (BUIDL on DAppes)
 - Users (Experience innovated Dapp’s products)
 
-![](https://hackmd.io/_uploads/SJx1pJQgs.jpg)
-
+![](https://hackmd.io/_uploads/SJrZleQgs.jpg)
 
 ## Summary 
 
@@ -79,12 +78,21 @@ Four types of people will benefit from this composable framework:
 - Solend (Money Market)
 - Larix (Money Market)
 - Tulip (Money Market/Vault)
-- Francium (Leverage Farm)
+- Francium (Money Market/Leverage Farm)
+- Friktion (Vault)
+- Katana (Vault)
+- Lido (Vault)
+- Marinade (Vault)
 - Dappio (Vault)
 
 More to come...
 
 
+
+## How can I start to build?
+[Here](https://github.com/DappioWonderland/universal-rabbit-hole-example) is an example of building a DApp on Universal Rabbit Hole.
+
+Navigator is fully open-sourced now! [Here](https://github.com/DappioWonderland/navigator) is the Github repo. You can also check [Dappio Developer Gitbook](https://docs.dappio.xyz/) for further guidance.
 
 
 
