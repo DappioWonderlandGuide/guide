@@ -89,7 +89,8 @@ More to come...
 
 
 
-## How can I start to build?
+## How can I start building
+
 [Here](https://github.com/DappioWonderland/universal-rabbit-hole-example) is an example of building a DApp on Universal Rabbit Hole.
 
 Navigator is fully open-sourced now! [Here](https://github.com/DappioWonderland/navigator) is the Github repo. You can also check [Dappio Developer Gitbook](https://docs.dappio.xyz/) for further guidance.
