@@ -4,32 +4,36 @@ tags: gitbook
 
 # Roadmap
 
-![](https://hackmd.io/_uploads/BJtEvH-i9.jpg)
 
-### Q2
+## Q4 2022
 
-- ✅ Launch NFT Staking
-- ✅ Launch $NFTU Token
-- ✅ Adopt more integration
+### Universal Rabbit Hole:🕳️ 
+- 🥕 Integrate more protocols
+- 🥕 Multiple I/O
+- 🥕 Fee Implementation Development
+- 🥕 Guideline for building an adapter/integrate with framework
+- 🥕 Audit (Ongoing)
 
-### Q3
+### Wonderland dApp 🐰 
+- 🥕 Launch Public Beta Phase I
+- 🥕 Vaults Integration Development
+- 🥕 Leverage Farming Integration Development
 
-- ✅ Launch NFT Auction/Raffle for user to get exclusive Whitelist Spots and Blue-chip NFT on Solana
-- ✅ Launch Dashboard V2
-- ✅ Launch Swap V2
-- ✅ Launch Farm V2
-- ✅ Launch Lend & Borrow V2
-- 🚧 Launch Leverage V2
-- 🚧 Launch Strategy V2
-- 🚧 Release of Universal Rabbit Hole(SDK), provides a full feature platform for both users and developers to leverage the full potential of DeFi on Solana; Implement Open-source core program, following audits
-- 🚧 Secured Partnership development with leading DeFi / NFT Projects on Solana for cross-marketing and user-adoption of Dappio DeFi App, NFTU ecosystem
-- 🚧 Release of Dappio Grant Program (SDK)
 
-### Q4
+## Q1 2023
 
-- 🚧 Launch Dappio Vaults for user to boost yields 
-- 🚧 Launch NFT Utilities(Rewards Multiplier, Fee Discount and Token Airdrop) for the Dappie Gang NFT holder
-- 🚧 Launch Dappio DeFi V3, with more major protocols integrated on Solana and overall UI/UX improvement and suggestion from our community
-- 🚧 Release of Universal Rabbit Hole(SDK) V1
-- 🚧 Reveal Phase 2.0 Roadmap(2023 Q1-Q2), which is focused on accelerating adoption and value for Dappio Community
+### Universal Rabbit Hole:🕳️ 
+- 🥕 Official Launch of Composable framework (Fee Implementation)
+- 🥕 Grant program for future developers/founders to utilize Composable Framework
+
+### Wonderland dApp 🐰 
+- 🥕 Development of Dappio vault
+- 🥕 Yield Tracker Development
+- 🥕 Launch Public Beta Phase II
+- 🥕 DeFi Utilities Development
+- 🥕 Tokenomics Development
+
+
+
+
 
